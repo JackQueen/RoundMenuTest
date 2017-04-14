@@ -16,4 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private void feature1() {
         Log.e("feature-1", "add feature-1");
     }
+
+    private void feature2() {
+        Log.e("feature-2", "add feature-2");    }
 }
